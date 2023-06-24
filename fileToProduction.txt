@@ -1,0 +1,3 @@
+Creé este archivo para llevarlo a produccion
+
+  Necesito hacer un pull request hacia dev para luego desde alli crear un tag , creando una rama release y la version del proyecto
