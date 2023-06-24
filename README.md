@@ -39,4 +39,5 @@
 
         5. Una vez dentro de la rama creo el tag con el siguiente comando : git tag -a v1.0.0 -m "1.0.0"  y luego subo esa release
            con este comando : git push origin v.1.0.0  para enviar el tag especifico a remoto.
-          
+        
+        6. Por ultimo hago un pull request desde la release a master   = master <- release/1.0.0 y el merge correspondiente
